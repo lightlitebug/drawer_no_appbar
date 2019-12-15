@@ -1,0 +1,15 @@
+{
+  "workbench.colorCustomizations": {
+    "[Palenight Operator]": {
+      "editor.background": "#011627",
+      "sideBar.background": "#011627",
+      "sideBar.foreground": "#9ea9e2",
+      "terminal.background": "#011627",
+      "terminal.ansiBlack": "#010c16",
+      "terminal.ansiBrightBlack": "#011627"
+    },
+    "activityBar.background": "#3E1D26",
+    "titleBar.activeBackground": "#562835",
+    "titleBar.activeForeground": "#FDFBFB"
+  }
+}
